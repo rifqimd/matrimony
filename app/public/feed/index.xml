@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rifqimd.</title>
+	<atom:link href="https://rifqimd.github.io/matrimony/feed/" rel="self" type="application/rss+xml" />
+	<link>https://rifqimd.github.io/matrimony/</link>
+	<description></description>
+	<lastBuildDate>Sun, 19 Feb 2023 07:42:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://rifqimd.github.io/matrimony/wp-content/uploads/2023/02/cropped-coat-of-arms-square-Small-32x32.jpeg</url>
+	<title>rifqimd.</title>
+	<link>https://rifqimd.github.io/matrimony/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hello world!</title>
+		<link>https://rifqimd.github.io/matrimony/hello-world/</link>
+		
+		<dc:creator><![CDATA[roguelunar]]></dc:creator>
+		<pubDate>Sat, 18 Feb 2023 21:25:31 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://rifqimd.github.io/matrimony/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+		
+		
+		
+			</item>
+	</channel>
+</rss>
