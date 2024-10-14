@@ -1,0 +1,41 @@
+{
+  "apiVersion": "1",
+  "name": "h5ap/playlistextensive",
+  "title": "HTML5 Audio Playlist - Extensive",
+  "description": "",
+  "category": "media",
+  "icon": "playlist-audio",
+  "keywords": ["HTML5 Audio Playlist", "Media Player", "Audio Player"],
+  "textdomain": "h5ap",
+  "attributes": {
+    "uniqueId": { "type": "string", "default": "uniqueId" },
+    "align": {
+      "type": "string",
+      "default": ""
+    },
+    "clientId": { "type": "string" },
+    "audios": { "type": "array", "default": [{ "artist": "artist", "title": "audio title", "source": "" }] },
+    "theme": { "type": "string", "default": "Light" },
+    "width": { "type": "string", "default": "100%" },
+    "height": { "type": "string", "default": "500px" },
+    "posterHeight": { "type": "string", "default": "250px" },
+    "brandColor": { "type": "string", "default": "#00b2ff" },
+    "style": {
+      "type": "string"
+    },
+    "CSS": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "supports": {
+    "html": false,
+    "lock": false,
+    "align": ["left", "center", "right"]
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  }
+}

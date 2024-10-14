@@ -1,0 +1,135 @@
+{
+  "apiVersion": "1",
+  "name": "h5ap/audioplayer",
+  "title": "HTML5 Audio Player",
+  "description": "",
+  "category": "media",
+  "icon": "format-audio",
+  "keywords": ["HTML5 Audio Player", "Media Player", "Audio Player"],
+  "textdomain": "h5ap",
+  "attributes": {
+    "uniqueId": { "type": "string", "default": "uniqueId" },
+    "clientId": {
+      "type": "string",
+      "default": ""
+    },
+    "align": {
+      "type": "string",
+      "default": ""
+    },
+    "source": {
+      "type": "string",
+      "default": ""
+    },
+    "poster": {
+      "type": "string",
+      "default": "poster"
+    },
+    "title": {
+      "type": "string",
+      "default": "audio title"
+    },
+    "artist": {
+      "type": "string",
+      "default": ""
+    },
+    "color": {
+      "type": "string",
+      "default": "#87ceeb"
+    },
+    "primaryColor": {
+      "type": "string",
+      "default": null
+    },
+    "hoverColor": {
+      "type": "string",
+      "default": "#00B3FF"
+    },
+    "controlColor": {
+      "type": "string",
+      "default": "#4a5464"
+    },
+    "bgColor": {
+      "type": "string",
+      "default": null
+    },
+    "skin": {
+      "type": "string",
+      "default": "Default"
+    },
+    "repeat": {
+      "type": "boolean",
+      "default": false
+    },
+    "autoplay": {
+      "type": "boolean",
+      "default": false
+    },
+    "muted": {
+      "type": "boolean",
+      "default": false
+    },
+    "loader": {
+      "type": "boolean",
+      "default": true
+    },
+    "seekTime": {
+      "type": "number",
+      "default": 10
+    },
+    "startTime": {
+      "type": "number",
+      "default": 0
+    },
+    "preload": {
+      "type": "string",
+      "default": "metadata"
+    },
+    "download": {
+      "type": "boolean",
+      "default": true
+    },
+    "width": {
+      "type": "string",
+      "default": "100%"
+    },
+    "radius": {
+      "type": "string",
+      "default": "0px"
+    },
+    "controls": {
+      "type": "object",
+      "default": {
+        "restart": false,
+        "rewind": false,
+        "play": true,
+        "fast-forward": false,
+        "progress": true,
+        "duration": false,
+        "current-time": true,
+        "mute": true,
+        "volume": true,
+        "settings": true,
+        "download": false
+      }
+    },
+    "style": {
+      "type": "string"
+    },
+    "CSS": {
+      "type": "string",
+      "default": ""
+    }
+  },
+  "supports": {
+    "html": false,
+    "lock": false,
+    "align": ["left", "center", "right"]
+  },
+  "example": {
+    "attributes": {
+      "preview": true
+    }
+  },
+  "editorScript": "file:../../dist/blocks.js"
+}

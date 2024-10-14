@@ -1,0 +1,10 @@
+{
+  "prefix": "h5ap",
+  "blockHandler": "h5dap-player",
+  "permalinks": ["h5ap", "h5app", "SfOyJ"],
+  "features": {
+    "license": true,
+    "optIn": false
+  },
+  "isBlock": false
+}
