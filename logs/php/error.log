@@ -5230,3 +5230,1022 @@ Stack trace:
 #0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php(216): LocalWP_Live_Link_Helper->__construct()
 #1 {main}
   thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php on line 21
+[16-Oct-2024 18:23:46 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 19:48:17 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 19:48:30 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 19:48:56 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 19:52:06 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 19:55:57 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 19:58:53 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 323584 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/class-wpdb.php on line 2315
+[16-Oct-2024 19:58:57 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 323584 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/class-wpdb.php on line 2315
+[16-Oct-2024 19:59:06 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 19:59:50 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 19:59:59 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 323584 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/class-wpdb.php on line 2315
+[16-Oct-2024 20:00:17 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 323584 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/class-wpdb.php on line 2315
+[16-Oct-2024 20:00:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:00:37 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:00:42 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:00:47 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:00:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:00:57 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:01:02 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:01:07 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:01:11 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:03:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:03:19 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:04:08 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:04:47 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:05:15 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:05:31 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:05:47 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:06:14 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[16-Oct-2024 20:06:16 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:07:08 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:08:25 UTC] PHP Warning:  Undefined array key "file" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/media.php on line 1749
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:09:35 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:11:16 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 323584 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/class-wpdb.php on line 2315
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:12:11 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Oct-2024 20:37:50 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:38:29 UTC] [Image Optimizer]: info in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: User is not connected
+[16-Oct-2024 20:40:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 928
+[16-Oct-2024 20:40:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 928
+[16-Oct-2024 20:40:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 866
+[16-Oct-2024 20:40:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 866
+[16-Oct-2024 20:40:12 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 865
+[16-Oct-2024 20:40:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 865
+[16-Oct-2024 20:40:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 788
+[16-Oct-2024 20:40:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 788
+[16-Oct-2024 20:41:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 709
+[16-Oct-2024 20:41:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 709
+[16-Oct-2024 20:41:23 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 309
+[16-Oct-2024 20:41:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 309
+[16-Oct-2024 20:41:27 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 252
+[16-Oct-2024 20:41:53 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 252
+[16-Oct-2024 20:41:58 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 165
+[16-Oct-2024 20:42:03 UTC] [Image Optimizer]: error in ImageOptimization\Modules\Optimization\Components\Bulk_Optimization->optimize_bulk(): Optimization error. Reason: Optimized image failed
+[16-Oct-2024 20:42:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 22
+[16-Oct-2024 20:42:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 22
+[16-Oct-2024 20:42:06 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 21
+[16-Oct-2024 20:42:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 21
+[16-Oct-2024 20:42:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 15
+[16-Oct-2024 20:42:16 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 15
+[16-Oct-2024 20:42:21 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 14
+[16-Oct-2024 20:42:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 14
+[16-Oct-2024 20:42:24 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 6
+[16-Oct-2024 20:42:52 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 6
+[16-Oct-2024 20:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Grid/Layout_2.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Grid/Layout_2.php on line 9
+[16-Oct-2024 20:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Grid/Layout_Default.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Grid/Layout_Default.php on line 9
+[16-Oct-2024 20:44:46 UTC] PHP Warning:  Undefined variable $default_multiple_kb in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Box/Layout_2.php on line 9
+[16-Oct-2024 20:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_term_link() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Box/Layout_2.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Box/Layout_2.php on line 16
+[16-Oct-2024 20:44:46 UTC] PHP Warning:  Undefined variable $default_multiple_kb in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Box/Layout_Default.php on line 9
+[16-Oct-2024 20:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_term_link() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Box/Layout_Default.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/includes/Template/Betterdocs-Category-Box/Layout_Default.php on line 16
+[16-Oct-2024 20:44:48 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "EAEL_PLUGIN_PATH" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/config.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/config.php on line 10
+[16-Oct-2024 20:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "PriyoMukul\WPNotice\Utils\Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Notices.php:18
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Notices.php on line 18
+[16-Oct-2024 20:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "PriyoMukul\WPNotice\Utils\Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Utils/Storage.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Utils/Storage.php on line 8
+[16-Oct-2024 20:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "PriyoMukul\WPNotice\Utils\Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Dismiss.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Dismiss.php on line 9
+[16-Oct-2024 20:44:59 UTC] PHP Fatal error:  Uncaught Error: Class "PriyoMukul\WPNotice\Utils\Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Notice.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/essential-addons-for-elementor-lite/vendor/priyomukul/wp-notice/src/Notice.php on line 11
+[16-Oct-2024 20:45:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/views/redirect.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/views/redirect.php on line 4
+[16-Oct-2024 20:45:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_Async_Request" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/classes/wp-background-process.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/classes/wp-background-process.php on line 14
+[16-Oct-2024 20:45:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_UnitTestCase" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_WP_Background_Process.php:15
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_WP_Background_Process.php on line 15
+[16-Oct-2024 20:45:00 UTC] PHP Fatal error:  Uncaught Error: Class "WP_UnitTestCase" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_Setup.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/tests/Test_Setup.php on line 11
+[16-Oct-2024 20:45:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/wp-background-processing.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/a5hleyrich/wp-background-processing/wp-background-processing.php on line 20
+[16-Oct-2024 20:45:03 UTC] PHP Warning:  require(/Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/../vendor/autoload.php): Failed to open stream: No such file or directory in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/generate_docs.php on line 3
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/../vendor/autoload.php' (include_path='.:/usr/share/php:/www/wp-content/pear') in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/generate_docs.php:3
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/build/generate_docs.php on line 3
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDom" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDom.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDom.php on line 14
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Interface "voku\helper\DomParserInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/AbstractDomParser.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/AbstractDomParser.php on line 7
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDomNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNodeBlank.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNodeBlank.php on line 10
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Interface "voku\helper\SimpleHtmlAttributesInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlAttributes.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlAttributes.php on line 10
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDomNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNodeBlank.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNodeBlank.php on line 10
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDomNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNode.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomNode.php on line 10
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDom" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDom.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDom.php on line 14
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDom" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomBlank.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomBlank.php on line 14
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Could not check compatibility between voku\helper\SimpleXmlDomInterface::getIterator(): voku\helper\SimpleXmlDomNodeInterface and IteratorAggregate::getIterator(): Traversable, because class voku\helper\SimpleXmlDomNodeInterface is not available in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomInterface.php on line 226
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleXmlDomNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNode.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleXmlDomNode.php on line 10
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractSimpleHtmlDom" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomBlank.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomBlank.php on line 14
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Could not check compatibility between voku\helper\SimpleHtmlDomInterface::getIterator(): voku\helper\SimpleHtmlDomNodeInterface and IteratorAggregate::getIterator(): Traversable, because class voku\helper\SimpleHtmlDomNodeInterface is not available in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/SimpleHtmlDomInterface.php on line 243
+[16-Oct-2024 20:45:03 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractDomParser" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/XmlDomParser.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/XmlDomParser.php on line 16
+[16-Oct-2024 20:45:04 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\AbstractDomParser" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/HtmlDomParser.php:34
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/simple_html_dom/src/voku/helper/HtmlDomParser.php on line 34
+[16-Oct-2024 20:45:07 UTC] PHP Fatal error:  Uncaught Error: Class "voku\helper\Bootup" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/portable-utf8/bootstrap.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/voku/portable-utf8/bootstrap.php on line 6
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Cannot declare class Attribute, because the name is already in use in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/polyfill-php80/Resources/stubs/Attribute.php on line 13
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Cannot declare class Normalizer, because the name is already in use in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/polyfill-intl-normalizer/Resources/stubs/Normalizer.php on line 3
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php:31
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/FunctionExtension.php on line 31
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php:26
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/CombinationExtension.php on line 26
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/PseudoClassExtension.php on line 27
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/NodeExtension.php on line 28
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php:27
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AttributeMatchingExtension.php on line 27
+[16-Oct-2024 20:45:08 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\XPath\Extension\AbstractExtension" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/HtmlExtension.php on line 29
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\Extension\ExtensionInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Extension/AbstractExtension.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\XPath\TranslatorInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Translator.php:31
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/XPath/Translator.php on line 31
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php:27
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/CommentHandler.php on line 27
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/IdentifierHandler.php on line 30
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/WhitespaceHandler.php on line 28
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/StringHandler.php:32
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/StringHandler.php on line 32
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/HashHandler.php:30
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/HashHandler.php on line 30
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\Handler\HandlerInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Handler/NumberHandler.php on line 29
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ClassParser.php on line 29
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php:32
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/EmptyStringParser.php on line 32
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/ElementParser.php on line 28
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php:29
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Shortcut/HashParser.php on line 29
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Parser\ParserInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Parser.php:28
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Parser/Parser.php on line 28
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ClassNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ClassNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/FunctionNode.php:26
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/FunctionNode.php on line 26
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Node\NodeInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AbstractNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AbstractNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/PseudoNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/PseudoNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ElementNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/ElementNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/HashNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/HashNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AttributeNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/AttributeNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/NegationNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/NegationNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/SelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/SelectorNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Node\AbstractNode" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/CombinedSelectorNode.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Node/CombinedSelectorNode.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/InternalErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/InternalErrorException.php on line 22
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/SyntaxErrorException.php:24
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/SyntaxErrorException.php on line 24
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Interface "Symfony\Component\CssSelector\Exception\ExceptionInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ParseException.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ParseException.php on line 22
+[16-Oct-2024 20:45:09 UTC] PHP Fatal error:  Uncaught Error: Class "Symfony\Component\CssSelector\Exception\ParseException" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ExpressionErrorException.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/vendor/symfony/css-selector/Exception/ExpressionErrorException.php on line 22
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-cancel-task.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-cancel-task.php on line 7
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-transfer-files-locally-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-transfer-files-locally-task.php on line 8
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Simply_Static\ABSPATH" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-create-zip-archive.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-create-zip-archive.php on line 4
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-setup-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-setup-task.php on line 8
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-generate-404-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-generate-404-task.php on line 8
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-fetch-urls-task.php on line 8
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Task" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-wrapup-task.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/tasks/class-ss-wrapup-task.php on line 7
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-rank-math-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-rank-math-integration.php on line 7
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-ss-adminbar-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-ss-adminbar-integration.php on line 5
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-pro-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-pro-integration.php on line 7
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Pro_Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-github-integration.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-github-integration.php on line 4
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Pro_Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-shortpixel-integration.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-shortpixel-integration.php on line 4
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Pro_Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-multilingual-integration.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-multilingual-integration.php on line 4
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Pro_Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-complianz-integration.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-complianz-integration.php on line 4
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Pro_Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-redirection-integration.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/pro/class-redirection-integration.php on line 4
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-yoast-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-yoast-integration.php on line 5
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-elementor-integration.php on line 7
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-aio-seo-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-aio-seo-integration.php on line 5
+[16-Oct-2024 20:45:10 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-pro-integration.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-pro-integration.php on line 4
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-cookie-yes-integration.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-cookie-yes-integration.php on line 7
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-brizy-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-brizy-integration.php on line 5
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-jetpack-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-jetpack-integration.php on line 5
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Integration" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-seopress-integration.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/integrations/class-seopress-integration.php on line 5
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/compatible-plugins.php:2
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/compatible-plugins.php on line 2
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-yoast-sitemap-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-yoast-sitemap-handler.php on line 5
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-rank-math-sitemap-handler.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-rank-math-sitemap-handler.php on line 8
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-brizy-image-handler.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-brizy-image-handler.php on line 5
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Class "Simply_Static\Page_Handler" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-handler-404.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/simply-static/src/handlers/class-ss-handler-404.php on line 5
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function HFE\Themes\add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/class-hfe-settings-page.php:26
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/class-hfe-settings-page.php(855): HFE\Themes\HFE_Settings_Page->__construct()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/class-hfe-settings-page.php on line 26
+[16-Oct-2024 20:45:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/class-hfe-elementor-canvas-compat.php:29
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/class-hfe-elementor-canvas-compat.php(115): HFE_Elementor_Canvas_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/class-hfe-elementor-canvas-compat.php on line 29
+[16-Oct-2024 20:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function HFE\Lib\plugins_url() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php:89
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php(77): HFE\Lib\Astra_Target_Rules_Fields->__construct()
+#1 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php(1635): HFE\Lib\Astra_Target_Rules_Fields::get_instance()
+#2 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/inc/lib/target-rule/class-astra-target-rules-fields.php on line 89
+[16-Oct-2024 20:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function plugin_dir_path() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/header-footer-elementor.php:19
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/header-footer-elementor.php on line 19
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/storefront/class-hfe-storefront-compat.php:30
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/storefront/class-hfe-storefront-compat.php(117): HFE_Storefront_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/storefront/class-hfe-storefront-compat.php on line 30
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/generatepress/class-hfe-generatepress-compat.php:32
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/generatepress/class-hfe-generatepress-compat.php(83): HFE_GeneratePress_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/generatepress/class-hfe-generatepress-compat.php on line 32
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/bb-theme/class-hfe-bb-theme-compat.php:32
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/bb-theme/class-hfe-bb-theme-compat.php(102): HFE_BB_Theme_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/bb-theme/class-hfe-bb-theme-compat.php on line 32
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "HFE_DIR" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/hello-elementor/class-hfe-hello-elementor-compat.php:31
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/hello-elementor/class-hfe-hello-elementor-compat.php(39): HFE_Hello_Elementor_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/hello-elementor/class-hfe-hello-elementor-compat.php on line 31
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/hfe-header.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/hfe-header.php on line 10
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function HFE\Themes\add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/class-global-theme-compatibility.php:19
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/class-global-theme-compatibility.php(104): HFE\Themes\Global_Theme_Compatibility->__construct()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/class-global-theme-compatibility.php on line 19
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function HFE\Themes\add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/class-hfe-default-compat.php:19
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/class-hfe-default-compat.php(96): HFE\Themes\HFE_Default_Compat->__construct()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/class-hfe-default-compat.php on line 19
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/hfe-footer.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/default/hfe-footer.php on line 11
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/oceanwp/class-hfe-oceanwp-compat.php:27
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/oceanwp/class-hfe-oceanwp-compat.php(70): HFE_OceanWP_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/oceanwp/class-hfe-oceanwp-compat.php on line 27
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/astra/class-hfe-astra-compat.php:29
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/astra/class-hfe-astra-compat.php(85): HFE_Astra_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/astra/class-hfe-astra-compat.php on line 29
+[16-Oct-2024 20:45:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/genesis/class-hfe-genesis-compat.php:29
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/genesis/class-hfe-genesis-compat.php(146): HFE_Genesis_Compat::instance()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/header-footer-elementor/themes/genesis/class-hfe-genesis-compat.php on line 29
+[16-Oct-2024 20:45:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/kits/views/panel.php:12
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/kits/views/panel.php on line 12
+[16-Oct-2024 20:45:14 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\System_Info\Reporters\Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/experiments/experiments-reporter.php:13
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/experiments/experiments-reporter.php on line 13
+[16-Oct-2024 20:45:20 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "Elementor\Core\Utils\ABSPATH" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/utils/plugins-manager.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/utils/plugins-manager.php on line 5
+[16-Oct-2024 20:45:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Elementor\Core\Isolation\Plugin_Status_Adapter_Interface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/isolation/plugin-status-adapter.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/isolation/plugin-status-adapter.php on line 4
+[16-Oct-2024 20:45:21 UTC] PHP Fatal error:  Uncaught Error: Interface "Elementor\Core\Isolation\Wordpress_Adapter_Interface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/isolation/wordpress-adapter.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/isolation/wordpress-adapter.php on line 4
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Data\V2\Base\Controller" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/controller.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/controller.php on line 8
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Editor\Data\Globals\Endpoints\Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/endpoints/colors.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/endpoints/colors.php on line 6
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Editor\Data\Globals\Endpoints\Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/endpoints/typography.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/endpoints/typography.php on line 6
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Data\V2\Base\Endpoint" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/endpoints/base.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/editor/data/globals/endpoints/base.php on line 9
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Debug\Classes\Inspection_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/debug/classes/htaccess.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/debug/classes/htaccess.php on line 7
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Debug\Classes\Inspection_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/debug/classes/shop-page-edit.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/debug/classes/shop-page-edit.php on line 4
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Core\Debug\Classes\Inspection_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/debug/classes/theme-missing.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/core/debug/classes/theme-missing.php on line 6
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Revert\Revert_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/templates.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/templates.php on line 5
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Revert\Revert_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/elementor-content.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/elementor-content.php on line 8
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Revert\Revert_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/wp-content.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/wp-content.php on line 7
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Elementor\App\Modules\ImportExport\Runners\Runner_Interface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/revert-runner-base.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/revert-runner-base.php on line 7
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Revert\Revert_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/plugins.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/plugins.php on line 5
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Revert\Revert_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/site-settings.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/site-settings.php on line 7
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Revert\Revert_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/taxonomies.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/revert/taxonomies.php on line 5
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Elementor\App\Modules\ImportExport\Runners\Runner_Interface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/export-runner-base.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/export-runner-base.php on line 7
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/templates.php on line 10
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/elementor-content.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/elementor-content.php on line 8
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/wp-content.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/wp-content.php on line 8
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/plugins.php:5
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/plugins.php on line 5
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/site-settings.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/site-settings.php on line 6
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Export\Export_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/taxonomies.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/export/taxonomies.php on line 6
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Import\Import_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/templates.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/templates.php on line 10
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Import\Import_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/elementor-content.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/elementor-content.php on line 8
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Import\Import_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/wp-content.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/wp-content.php on line 8
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Import\Import_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/plugins.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/plugins.php on line 9
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Import\Import_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/site-settings.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/site-settings.php on line 9
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Interface "Elementor\App\Modules\ImportExport\Runners\Runner_Interface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/import-runner-base.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/import-runner-base.php on line 7
+[16-Oct-2024 20:45:22 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\App\Modules\ImportExport\Runners\Import\Import_Runner_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/taxonomies.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/app/modules/import-export/runners/import/taxonomies.php on line 7
+[16-Oct-2024 20:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Contact_Buttons_Render_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/classes/render/contact-buttons-core-render.php:12
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/classes/render/contact-buttons-core-render.php on line 12
+[16-Oct-2024 20:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\FloatingButtons\Classes\Render\Floating_Bars_Render_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/classes/render/floating-bars-core-render.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/classes/render/floating-bars-core-render.php on line 14
+[16-Oct-2024 20:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Control_Hover_Animation" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/control/hover-animation-floating-buttons.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/control/hover-animation-floating-buttons.php on line 7
+[16-Oct-2024 20:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Widget_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/base/widget-floating-bars-base.php:15
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/base/widget-floating-bars-base.php on line 15
+[16-Oct-2024 20:45:26 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Widget_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/base/widget-contact-button-base.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/floating-buttons/base/widget-contact-button-base.php on line 17
+[16-Oct-2024 20:45:27 UTC] PHP Fatal error:  Trait "Elementor\Core\Base\Traits\Shared_Widget_Controls_Trait" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/link-in-bio/classes/render/render-base.php on line 18
+[16-Oct-2024 20:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Modules\LinkInBio\Classes\Render\Render_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/link-in-bio/classes/render/core-render.php:12
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/link-in-bio/classes/render/core-render.php on line 12
+[16-Oct-2024 20:45:27 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Widget_Base" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/link-in-bio/base/widget-link-in-bio-base.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/modules/link-in-bio/base/widget-link-in-bio-base.php on line 16
+[16-Oct-2024 20:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "WP_REST_Controller" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/controller.php on line 9
+[16-Oct-2024 20:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Data\Base\Endpoint" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/sub-endpoint.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/sub-endpoint.php on line 6
+[16-Oct-2024 20:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Data\Base\Processor" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/processor/before.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/processor/before.php on line 6
+[16-Oct-2024 20:45:28 UTC] PHP Fatal error:  Uncaught Error: Class "Elementor\Data\Base\Processor" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/processor/after.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/elementor/data/base/processor/after.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_CLI_Command" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Clean_Command.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Clean_Command.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_CLI_Command" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_Scheduler_command.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_QueueRunner" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/ActionScheduler_WPCLI_QueueRunner.php on line 10
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "WP_CLI_Command" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/WP_CLI/Migration_Command.php on line 22
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_ListTable" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_ListTable.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_ListTable.php on line 7
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_AdminView_Deprecated" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_AdminView.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_AdminView.php on line 7
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_QueueRunner" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_QueueRunner.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_RecurringSchedule" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CronSchedule.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_SimpleSchedule" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_NullSchedule.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_Schedule" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_SimpleSchedule.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_RecurringSchedule" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_IntervalSchedule.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_SimpleSchedule" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schedules/ActionScheduler_CanceledSchedule.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_Schema" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_LoggerSchema.php on line 10
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_Schema" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/schema/ActionScheduler_StoreSchema.php on line 10
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_QueueRunner_Deprecated" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_QueueRunner.php on line 6
+[16-Oct-2024 20:45:49 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Abstract_Schedule" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_RecurringSchedule.php on line 6
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Undefined constant "ABSPATH" in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php:4
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_ListTable.php on line 4
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Schedule_Deprecated" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Abstract_Schedule.php on line 6
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Store_Deprecated" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Store.php:7
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/abstracts/ActionScheduler_Store.php on line 7
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Store" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpPostStore.php on line 6
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Logger" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_DBLogger.php on line 10
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Store" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php:15
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_HybridStore.php on line 15
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Logger" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpCommentLogger.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_wpCommentLogger.php on line 6
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Store" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/data-stores/ActionScheduler_DBStore.php on line 10
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Action" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_FinishedAction.php on line 6
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_FinishedAction" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_CanceledAction.php on line 9
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Action" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_NullAction.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/actions/ActionScheduler_NullAction.php on line 6
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface "ActionScheduler_Exception" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_InvalidActionException.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_InvalidActionException.php on line 10
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_Lock" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_OptionLock.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_OptionLock.php on line 10
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Action_Scheduler\Migration\LogMigrator" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/migration/DryRun_LogMigrator.php:13
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/migration/DryRun_LogMigrator.php on line 13
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "Action_Scheduler\Migration\ActionMigrator" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/migration/DryRun_ActionMigrator.php:15
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/migration/DryRun_ActionMigrator.php on line 15
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_DBStore" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/migration/ActionScheduler_DBStoreMigrator.php on line 10
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "ActionScheduler_LogEntry" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_NullLogEntry.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/classes/ActionScheduler_NullLogEntry.php on line 6
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "CronExpression_AbstractField" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_MinutesField.php on line 8
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "CronExpression_AbstractField" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_YearField.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_YearField.php on line 8
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "CronExpression_AbstractField" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php:21
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_DayOfMonthField.php on line 21
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "CronExpression_AbstractField" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php:18
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_DayOfWeekField.php on line 18
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Interface "CronExpression_FieldInterface" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_AbstractField.php on line 8
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "CronExpression_AbstractField" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_HoursField.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_HoursField.php on line 8
+[16-Oct-2024 20:45:50 UTC] PHP Fatal error:  Uncaught Error: Class "CronExpression_AbstractField" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_MonthField.php:8
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/lib/cron-expression/CronExpression_MonthField.php on line 8
+[16-Oct-2024 20:45:51 UTC] PHP Fatal error:  Uncaught Error: Interface "ActionScheduler_Schedule" not found in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php:6
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/plugins/image-optimization/vendor/woocommerce/action-scheduler/deprecated/ActionScheduler_Schedule_Deprecated.php on line 6
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/functions.php:147
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/functions.php on line 147
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html__() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement-small.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement-small.php on line 20
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-blogging.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-blogging.php on line 16
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-subscribe-centered.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-subscribe-centered.php on line 20
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-full-screen-image.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-full-screen-image.php on line 10
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/banner-project-description.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/banner-project-description.php on line 17
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-search.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-search.php on line 9
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-feature-grid-3-col.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-feature-grid-3-col.php on line 16
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php:19
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-services-image-left.php on line 19
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php:21
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/gallery-project-layout.php on line 21
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-alternating-images.php:19
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-alternating-images.php on line 19
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-content-image-on-right.php:18
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-content-image-on-right.php on line 18
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-rsvp.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-rsvp.php on line 11
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/page-rsvp-landing.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/page-rsvp-landing.php on line 14
+[16-Oct-2024 20:45:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-portfolio.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/template-index-portfolio.php on line 16
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-title-left-image-right.php:21
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-title-left-image-right.php on line 21
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-navigation.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-navigation.php on line 9
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-comments.php:12
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-comments.php on line 12
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-404.php:10
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-404.php on line 10
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/page-newsletter-landing.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/page-newsletter-landing.php on line 20
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/team-4-col.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/team-4-col.php on line 11
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-pricing.php:11
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/cta-pricing.php on line 11
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-faq.php:12
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-faq.php on line 12
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement.php:21
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-centered-statement.php on line 21
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-sidebar.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-sidebar.php on line 17
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/posts-list.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/posts-list.php on line 14
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-project-details.php:18
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/text-project-details.php on line 18
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/footer-colophon-3-col.php:17
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/footer-colophon-3-col.php on line 17
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/footer.php:41
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/footer.php on line 41
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/banner-hero.php:18
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/banner-hero.php on line 18
+[16-Oct-2024 20:45:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_e() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/posts-grid-2-col.php:14
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/posts-grid-2-col.php on line 14
+[16-Oct-2024 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-meta.php:20
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-post-meta.php on line 20
+[16-Oct-2024 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-no-results.php:9
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-no-results.php on line 9
+[16-Oct-2024 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_html_x() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/testimonial-centered.php:12
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/testimonial-centered.php on line 12
+[16-Oct-2024 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function wp_kses_post() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-portfolio-hero.php:16
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/hidden-portfolio-hero.php on line 16
+[16-Oct-2024 20:45:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/footer-centered-logo-nav.php:22
+Stack trace:
+#0 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/themes/twentytwentyfour/patterns/footer-centered-logo-nav.php on line 22
+[16-Oct-2024 20:45:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_option() in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php:21
+Stack trace:
+#0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php(216): LocalWP_Live_Link_Helper->__construct()
+#1 {main}
+  thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php on line 21
