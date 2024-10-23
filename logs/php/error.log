@@ -6249,3 +6249,22 @@ Stack trace:
 #0 /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php(216): LocalWP_Live_Link_Helper->__construct()
 #1 {main}
   thrown in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-content/mu-plugins/local-by-flywheel-live-link-helper.php on line 21
+[18-Oct-2024 04:34:42 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[18-Oct-2024 06:20:13 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[18-Oct-2024 06:31:19 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[19-Oct-2024 17:41:05 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Oct-2024 16:24:49 UTC] [Connect Service]: invalid status code400
+[23-Oct-2024 16:24:49 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: {"error":"invalid_request","error_description":"The request is missing a required parameter, includes an invalid parameter value, includes a parameter more than once, or is otherwise malformed. Failed to refresh token because of multiple concurrent requests using the same token which is not allowed."}
+[23-Oct-2024 16:46:23 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[23-Oct-2024 16:52:46 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[23-Oct-2024 16:52:59 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1076
+[23-Oct-2024 16:53:03 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1076
+[23-Oct-2024 17:27:17 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 1078
+[23-Oct-2024 17:27:28 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 1078
+[23-Oct-2024 18:38:25 UTC] [Image Optimizer]: error in ImageOptimization\Modules\ConnectManager\Components\Connect->get_connect_status(): Status check error. Reason: Token Auth Guard Request Failed!: Invalid Token
+[23-Oct-2024 19:33:13 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 495616 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/class-wpdb.php on line 2315
+[23-Oct-2024 19:33:17 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 299008 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/class-wpdb.php on line 2315
+[23-Oct-2024 19:34:28 UTC] PHP Fatal error:  Allowed memory size of 268435456 bytes exhausted (tried to allocate 503808 bytes) in /Users/rifqimuhammad/Local Sites/matrimony/app/public/wp-includes/formatting.php on line 5497
+[23-Oct-2024 19:36:42 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[23-Oct-2024 19:41:45 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): Start optimization of 165
+[23-Oct-2024 19:42:08 UTC] [Image Optimizer]: info in ImageOptimization\Modules\Optimization\Classes\Optimize_Image->optimize(): End optimization of 165

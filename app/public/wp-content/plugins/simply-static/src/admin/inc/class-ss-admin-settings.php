@@ -131,15 +131,8 @@ class Admin_Settings {
 			$initial = '/diagnostics';
 		}
 
-
 		// Check if directory exists, if not, create it.
-		$upload_dir = wp_upload_dir();
-		$temp_dir   = $upload_dir['basedir'] . DIRECTORY_SEPARATOR . 'simply-static' . DIRECTORY_SEPARATOR . 'temp-files';
-
-		// Check if directory exists.
-		if ( ! is_dir( $temp_dir ) ) {
-			wp_mkdir_p( $temp_dir );
-		}
+		$temp_dir = Util::get_temp_dir();
 
 		$args = apply_filters(
 			'ss_settings_args',
@@ -152,7 +145,7 @@ class Admin_Settings {
 				'home'           => home_url(),
 				'home_path'      => get_home_path(),
 				'admin_email'    => get_bloginfo( 'admin_email' ),
-				'temp_files_dir' => trailingslashit( $temp_dir ),
+				'temp_files_dir' => $temp_dir,
 				'blog_id'        => get_current_blog_id(),
 				'need_upgrade'   => 'no',
 				'builds'         => array(),
@@ -388,8 +381,20 @@ class Admin_Settings {
 	public function get_settings() {
 		$settings = get_option( 'simply-static' );
 		if ( empty( $settings['integrations'] ) ) {
-			$integrations             = Plugin::instance()->get_integrations();
-			$settings['integrations'] = array_keys( $integrations );
+			$integrations         = Plugin::instance()->get_integrations();
+			$enabled_integrations = [];
+
+            foreach ( $integrations as $integration => $class ) {
+                $object = new $class;
+
+                if ( ! $object->is_enabled() ) {
+                    continue;
+                }
+
+                $enabled_integrations[] = $integration;
+            }
+
+			$settings['integrations'] = $enabled_integrations;
 		}
 
 		return $settings;
