@@ -663,23 +663,17 @@ class Util {
 			'aws_empty',
 			'create_zip_archive',
 			'transfer_files_locally',
+			'github_blobs',
 			'github_commit',
 			'bunny_deploy',
 			'tiiny_deploy',
 			'aws_deploy',
 			'sftp_deploy',
-			'simply_cdn'
 		];
 
 		foreach ( $tasks as $task ) {
-			delete_transient( 'simply_static_' . $task . '_total_pages' );
+			delete_option( 'simply_static_' . $task . '_total_pages' );
 		}
-
-		// Misc.
-		delete_transient( 'ssp_sftp_deploy_start_time' );
-		delete_transient( 'ssp_search_index_start_time' );
-		delete_transient( 'ssp_github_blobs' );
-		delete_transient( 'ssp_search_results' );
 	}
 
 	/*

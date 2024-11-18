@@ -88,9 +88,6 @@ trait canProcessPages {
 			return true; // No Pages to process anymore. It's done.
 		}
 
-		$message = $this->processing_pages_message( $pages_to_process_count, $total_pages );
-		$this->save_status_message( $message );
-
 		while ( $static_page = array_shift( $pages_to_process ) ) {
 			try {
 				$this->process_page( $static_page );
@@ -118,18 +115,6 @@ trait canProcessPages {
 	 * @return void
 	 */
 	protected function process_page( $static_page ) {}
-
-	/**
-	 * Message to see when starting to process new pages.
-	 *
-	 * @param integer $to_process Number of pages to process.
-	 * @param integer $total Total of pages.
-	 *
-	 * @return string
-	 */
-	protected function processing_pages_message( $to_process, $total ) {
-		return sprintf( __( "Uploading %d of %d files", 'simply-static' ), $to_process, $total );
-	}
 
 	/**
 	 * Message to set when processed pages.
@@ -216,17 +201,17 @@ trait canProcessPages {
 			return $this->get_total_pages_sql();
 		}
 
-		$count = get_transient( 'simply_static_' . static::$task_name . '_total_pages' );
+		$count = get_option( 'simply_static_' . static::$task_name . '_total_pages' );
 		if ( false === $count ) {
 			$count = $this->get_total_pages_sql();
-			set_transient( 'simply_static_' . static::$task_name . '_total_pages', $count, MINUTE_IN_SECONDS );
+			update_option( 'simply_static_' . static::$task_name . '_total_pages', $count );
 		}
 
 		return $count;
 	}
 
-	public static function delete_transients() {
-		delete_transient( 'simply_static_' . static::$task_name . '_total_pages' );
+	public static function delete_total_pages() {
+		delete_option( 'simply_static_' . static::$task_name . '_total_pages' );
 	}
 
 	/**
