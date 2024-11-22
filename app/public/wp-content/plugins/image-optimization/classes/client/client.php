@@ -36,8 +36,8 @@ class Client {
 		return self::$instance;
 	}
 
-	public static function get_site_info(): array {
-		return [
+	public static function get_site_info( $endpoint = null ): array {
+		$data = [
 			// Which API version is used.
 			'app_version' => IMAGE_OPTIMIZATION_VERSION,
 			// Which language to return.
@@ -46,9 +46,15 @@ class Client {
 			'site_url' => trailingslashit( home_url() ),
 			// current user
 			'local_id' => get_current_user_id(),
-			// Media library stats
-			'media_data' => base64_encode( wp_json_encode( self::get_request_stats() ) ), // phpcs:ignore WordPress.PHP.DiscouragedPHPFunctions.obfuscation_base64_encode
+
 		];
+
+		if ( $endpoint !== self::STATUS_CHECK ) {
+			// Media library stats
+			$data['media_data'] = base64_encode( wp_json_encode( self::get_request_stats() ) ); // phpcs:ignore WordPress.PHP.DiscouragedPHPFunctions.obfuscation_base64_encode
+		}
+
+		return $data;
 	}
 
 	private static function get_request_stats(): array {
@@ -79,7 +85,7 @@ class Client {
 			$this->is_connected() ? $this->generate_authentication_headers( $endpoint ) : []
 		);
 
-		$body = array_replace_recursive( $body, $this->get_site_info() );
+		$body = array_replace_recursive( $body, $this->get_site_info( $endpoint ) );
 
 		try {
 			if ( $file ) {
@@ -106,7 +112,9 @@ class Client {
 	}
 
 	private static function get_remote_url( $endpoint ): string {
-		return self::BASE_URL . $endpoint;
+		$base_url = apply_filters( 'image_optimizer_client_get_base_url', self::BASE_URL );
+
+		return $base_url . $endpoint;
 	}
 
 	protected function is_connected(): bool {
@@ -215,7 +223,7 @@ class Client {
 	 *
 	 * @return string
 	 * @throws Client_Exception
-*/
+	 */
 	private function get_upload_request_body( array $body, $file, string $boundary, string $file_name = '' ): string {
 		$payload = '';
 		// add all body fields as standard POST fields:

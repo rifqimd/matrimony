@@ -1,4 +1,4 @@
-/*! elementor - v3.25.0 - 18-11-2024 */
+/*! elementor - v3.25.0 - 20-11-2024 */
 /******/ (() => { // webpackBootstrap
 /******/ 	var __webpack_modules__ = ({
 
@@ -40982,7 +40982,14 @@ module.exports = {
   },
   sanitizeUrl: function sanitizeUrl(url) {
     var isValidUrl = !!url ? (0, _dompurify.isValidAttribute)('a', 'href', url) : false;
-    return isValidUrl ? url : '';
+    if (!isValidUrl) {
+      return '';
+    }
+    try {
+      return encodeURI(url);
+    } catch (e) {
+      return '';
+    }
   }
 };
 
